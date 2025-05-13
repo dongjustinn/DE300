@@ -1,0 +1,5 @@
+pandas
+duckdb
+boto3
+cassandra-driver
+notebook
